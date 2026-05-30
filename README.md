@@ -20,3 +20,7 @@ SAD is released as a standalone dataset (no separate paper); please cite the dat
   howpublished = {\url{https://github.com/tjuzek/sad}}
 }
 ```
+
+## AI Assistance
+
+Repository polished with Claude Code.
