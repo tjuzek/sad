@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this dataset, a citation is appreciated (though not required; see the licence)."
+title: "The Syntactic Acceptability Dataset (SAD)"
+type: dataset
+version: "1.0"
+date-released: "2024-05-21"
+authors:
+  - family-names: "Juzek"
+    given-names: "Tom S."
+    orcid: "https://orcid.org/0000-0002-3204-3879"
+repository-code: "https://github.com/tjuzek/sad"
